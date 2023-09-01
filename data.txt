@@ -1,0 +1,22 @@
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwOEU4NTU3M0ZFN0UzMEY0MkUyAA== TELEFONO:50250001836 TIME:1692676088 MSG:trtert RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwRjcxQUM1ODg4NzU3QjdEMUM3AA== TELEFONO:50250001836 TIME:1692676121 MSG:martes RESP: Los eventos del Martes \nLenguaje de Programación Java - Costo Q.200.00\nBases de datos Oracle I - Costo Q.100.00\n
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwNUVBNTdFOTRDOEUzQUUwQkE1AA== TELEFONO:50250001836 TIME:1692676170 MSG:jueves RESP: Los eventos del jueves \nLenguaje de Programación en Python - Costo Q.200.00\nLenguaje de Programación en NodeJS - Costo Q.200.00\n
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwNzFEM0U3NjRBMUMzMUU3NUMzAA== TELEFONO:50250001836 TIME:1692676759 MSG:domingo RESP: Los domingo esta cerrado
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwRDExQzEzQUQxQzJCOUU5ODc3AA== TELEFONO:50250001836 TIME:1692676738 MSG:domingo RESP: Los domingo esta cerrado
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwMjE1MUE2ODcxMkVCQjBDNDkzAA== TELEFONO:50250001836 TIME:1692676465 MSG:lunes RESP: Los eventos del lunes\nProgramación con Lenguaje PHP - Costo Q.100.00 \nBases de datos MySQL - Costo Q.100.00\n
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwNEQxMjYzNUNFM0ExODU5NzcwAA== TELEFONO:50250001836 TIME:1692676646 MSG:domingo RESP: Los domingo esta cerrado
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwRENCMUQyNTk4OUQwNTdGODJDAA== TELEFONO:50250001836 TIME:1692677233 MSG:xxxxx RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwRDdFNzVDQzc1REVFRTQ0RjBGAA== TELEFONO:50250001836 TIME:1692677214 MSG:xxxxx RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwMDY2NUQ1QkJDQjVBRUI5RjU1AA== TELEFONO:50250001836 TIME:1692677223 MSG:xxxx RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwMjRCM0E4NjY5NTU3QTAzMkNCAA== TELEFONO:50250001836 TIME:1692677480 MSG:vvvvv RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwN0YwQjNEQTIyN0M5NTJCQjk5AA== TELEFONO:50250001836 TIME:1692677499 MSG:ccccc RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQjc5NjE1NUY1NUU4QUJGNEIzAA== TELEFONO:50250001836 TIME:1692677174 MSG:xxxxx RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQkIwNUMxQUREMzBEODgyM0YxAA== TELEFONO:50250001836 TIME:1692677149 MSG:xxx RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQjU2RDdGQzZGOTE1ODVDQkEzAA== TELEFONO:50250001836 TIME:1692677613 MSG:hhhh RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwMjRBMDk3RjQyQzg0QzgzN0VBAA== TELEFONO:50250001836 TIME:1692677643 MSG:rrrrr RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQjg5MkEwOTM4NzI0ODY1RjA1AA== TELEFONO:50250001836 TIME:1692677864 MSG:xxxxx RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwMDU0MUQ0NzhGNjRFRDZFMDY1AA== TELEFONO:50250001836 TIME:1692677845 MSG:vvvvvv RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwOEJCOEQ4NDE1NjgwQzhGRDhCAA== TELEFONO:50250001836 TIME:1692678102 MSG:xxxx RESP: Recuerda que soy un robot, me podrías preguntar de otra forma
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQzJGNzk2MENCODVDMDc5MjYyAA== TELEFONO:50250001836 TIME:1692678180 MSG:martes RESP: Los eventos del Martes \nLenguaje de Programación Java - Costo Q.200.00\nBases de datos Oracle I - Costo Q.100.00\n
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwN0IzMDdDQkNGRkYzRTI4ODNBAA== TELEFONO:50250001836 TIME:1692677803 MSG:vvv RESP: Intenta hacer tu pregunta de otra manera. N/A
+ID:wamid.HBgLNTAyNTAwMDE4MzYVAgASGBYzRUIwQzA5QzhFNEQwN0M0NDhGMUFBAA== TELEFONO:50250001836 TIME:1692678337 MSG:jueves RESP: Los eventos del jueves \nLenguaje de Programación en Python - Costo Q.200.00\nLenguaje de Programación en NodeJS - Costo Q.200.00\n
