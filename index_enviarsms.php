@@ -1,7 +1,7 @@
 
     <?php
     // token
-    $token = "EAANlkYT1E1IBO5lCh3cRBCmmJIquCWx9H9ktZABc7hLOk1ZA4hbeTzyjzcF4356VBQ2ndZCKZCZCanG8EVKCXyZBtKDJvyT0iSAwbOV9ZBQ67ydob6sSZAId2ZAFyQVoDlNFlNZCvwhNp16NrnxF30ZAxEwCZCVw5lU2odOrZBZBJpJdhVZBtNVZByJYmYGg6iCiL4fd2yw4zfErhRAhaCbdngKb";
+    $token = "EAANlkYT1E1IBO84ECWjN6VYDFw7vPmLpa3ZAVdgR8jehavwQmyE03xEUM1SgZAsY3KVU6AfzMBdBfbghXZAju50z6NAbhOj1HXWQPPDii58qpPlyQnI4VDWIeskKyDOgj8ZByk37135ZBj3w0gWMTHwiN2Ez6tJ9ZBwbvOzX5ZCaxa4JQdUI3gmHSRLRviZBHJua6yDq1VRBEtq20eoc";
     // telefono 
     $telefono = "50250001836";
     // URL donde se envia el sms 
